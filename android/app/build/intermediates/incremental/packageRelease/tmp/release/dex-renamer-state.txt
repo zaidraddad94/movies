@@ -1,0 +1,4 @@
+#Fri Oct 08 18:51:03 EEST 2021
+base.0=/Users/zaidraddad94/Desktop/movies/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

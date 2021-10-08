@@ -1,0 +1,9 @@
+com/movies/BuildConfig.java
+ com.movies.BuildConfig
+com/movies/MainActivity.java
+ com.movies.MainActivity
+com/movies/MainApplication.java
+ com.movies.MainApplication
+ com.movies.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

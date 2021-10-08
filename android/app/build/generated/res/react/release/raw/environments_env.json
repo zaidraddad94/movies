@@ -1,0 +1,5 @@
+{
+  "API_BASE_URL":"https://api.themoviedb.org/3",
+  "API_KEY":"4f298a53e552283bee957836a529baec",
+  "IMAGE_BASE_URL":"https://www.themoviedb.org/t/p/w440_and_h660_face"
+}
